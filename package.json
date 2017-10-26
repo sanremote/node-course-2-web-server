@@ -13,5 +13,13 @@
     "hbs": "^4.0.1"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanremote/node-course-2-web-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sanremote/node-course-2-web-server/issues"
+  },
+  "homepage": "https://github.com/sanremote/node-course-2-web-server#readme",
   "description": ""
 }
